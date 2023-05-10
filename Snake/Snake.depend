@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679924713 source:d:\dokumenty\dok\projekty - programowanie\c++\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<vector>
+	<Windows.h>
+
+1679329330 source:c:\users\aszka\onedrive\pulpit\test.cpp
+	<iostream>
+
